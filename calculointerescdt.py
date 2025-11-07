@@ -1,4 +1,4 @@
-# Ejemplo 2.5: Cálculo de intereses de un CDT
+# Cálculo de intereses de un CDT
 
 # Entrada de datos
 cantidad = float(input("Ingrese la cantidad de dinero invertida: "))
@@ -22,4 +22,5 @@ total_retirar = cantidad + (valor_intereses - retencion)
 print("\n--- Resultados ---")
 print(f"Intereses generados: ${valor_intereses:.2f}")
 print(f"Descuento por retención (7%): ${retencion:.2f}")
+
 print(f"Total a retirar al final del periodo: ${total_retirar:.2f}")
