@@ -1,4 +1,4 @@
-# Ejemplo 2.3: Aplicación de funciones matemáticas en Python
+# Aplicación de funciones matemáticas en Python
 
 import math  # Importamos la librería matemática
 
@@ -26,4 +26,5 @@ print(f"Parte entera: {parte_entera}")
 print(f"Redondeado: {redondeado}")
 print(f"Seno: {seno}")
 print(f"Coseno: {coseno}")
+
 print(f"Tangente: {tangente}")
