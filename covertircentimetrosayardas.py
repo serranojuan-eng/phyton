@@ -1,4 +1,4 @@
-# Ejercicio 14: Convertir centímetros a yardas, metros, pies y pulgadas
+Convertir centímetros a yardas, metros, pies y pulgadas
 cm = float(input("Introduce la longitud en centímetros: "))
 metros = cm / 100
 pulgadas = cm / 2.54
